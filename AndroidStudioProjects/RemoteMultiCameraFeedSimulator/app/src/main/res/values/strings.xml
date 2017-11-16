@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RemoteMultiCameraFeedSimulator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cam_one_description">Camera One Image</string>
+    <string name="cam_two_description">Camera Two Image</string>
+    <string name="cam_one_btn">Camera 01</string>
+    <string name="cam_two_btn">Camera 02</string>
+</resources>

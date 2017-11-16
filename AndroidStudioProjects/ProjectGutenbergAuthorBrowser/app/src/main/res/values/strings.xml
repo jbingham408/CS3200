@@ -1,0 +1,300 @@
+<resources>
+    <string name="app_name">ProjectGutenbergAuthorBrowser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_author_titles">AuthorTitlesActivity</string>
+
+    <!-- List of authors -->
+    <string-array name="arrAuthors">
+        <item>Hans Christian Andersen</item>
+        <item>Mark Twain</item>
+        <item>Rafael Sabatini</item>
+        <item>Charles Dickens</item>
+        <item>Guy de Maupassant</item>
+        <item>Victor Hugo</item>
+        <item>Leo Tolstoy</item>
+        <item>Rudyard Kipling</item>
+        <item>Rabindranath Tagore</item>
+        <item>William Shakespeare</item>
+    </string-array>
+
+    <!-- List of Andersens titles -->
+    <array name="arrAndersenTitles">
+        <item>The Emperor\'s New Clothes</item>
+        <item>The Swineherd</item>
+        <item>The Snow Queen</item>
+        <item>The Leap-Frog</item>
+        <item>The Bell</item>
+        <item>The Old House</item>
+        <item>The Happy Family</item>
+        <item>The Story of a Mother</item>
+        <item>The Dream of Little Tuk</item>
+        <item>The Naughty Boy</item>
+    </array>
+
+    <array name="arrAndersenTitleURL">
+        <item>http://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0001</item>
+        <item>http://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0002</item>
+        <item>http://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0006</item>
+        <item>http://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0007</item>
+        <item>http://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0009</item>
+        <item>http://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0010</item>
+        <item>http://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0011</item>
+        <item>http://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0012</item>
+        <item>http://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0016</item>
+        <item>http://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0017</item>
+    </array>
+
+    <!-- List of Andersens titles -->
+    <array name="arrTwainTitles">
+        <item>The $30,000 Bequest</item>
+        <item>The Adventures of Huckleberry Finn</item>
+        <item>The Adventures of Tom Sawyer</item>
+        <item>Punch, Brother, Punch</item>
+        <item>On the Decay of the Art of Lying</item>
+        <item>Speech on the Babies</item>
+        <item>Speech on the Weather</item>
+        <item>Rogers</item>
+        <item>The American Claimant</item>
+        <item>Christian Science</item>
+    </array>
+
+    <!-- List of Andersens titles urls -->
+    <array name="arrTwainTitleURL">
+        <item>http://www.gutenberg.org/files/142/142-h/142-h.htm</item>
+        <item>http://www.gutenberg.org/files/76/76-h/76-h.htm</item>
+        <item>http://www.gutenberg.org/files/74/74-h/74-h.htm</item>
+        <item>http://www.gutenberg.org/files/3184/3184-h/3184-h.htm#link2H_4_0004</item>
+        <item>http://www.gutenberg.org/files/3184/3184-h/3184-h.htm#link2H_4_0002</item>
+        <item>http://www.gutenberg.org/files/3184/3184-h/3184-h.htm#link2H_4_0010</item>
+        <item>http://www.gutenberg.org/files/3184/3184-h/3184-h.htm#link2H_4_0011</item>
+        <item>http://www.gutenberg.org/files/3184/3184-h/3184-h.htm#link2H_4_0013</item>
+        <item>http://www.gutenberg.org/files/3179/3179-h/3179-h.htm</item>
+        <item>http://www.gutenberg.org/files/3187/3187-h/3187-h.htm</item>
+    </array>
+
+    <!-- List of Sabatinis titles -->
+    <array name="arrSabatiniTitles">
+        <item>The Life of Cesare Borgia</item>
+        <item>The Lion\'s Skin</item>
+        <item>Mistress Wilding</item>
+        <item>Captain Blood</item>
+        <item>The Sea-Hawk</item>
+        <item>The Snare</item>
+        <item>St. Martin\'s Summer</item>
+        <item>The Tavern Knight</item>
+        <item>The Trampling of the Lilies</item>
+        <item>Scaramouche</item>
+    </array>
+
+    <!-- List of Sabatinis titles urls -->
+    <array name="arrSabatiniTitleURL">
+        <item>http://www.gutenberg.org/files/3467/3467-h/3467-h.htm</item>
+        <item>http://www.gutenberg.org/files/2702/2702-h/2702-h.htm</item>
+        <item>http://www.gutenberg.org/files/1457/1457-h/1457-h.htm</item>
+        <item>http://www.gutenberg.org/files/1965/1965-h/1965-h.htm</item>
+        <item>http://www.gutenberg.org/files/3294/3294-h/3294-h.htm</item>
+        <item>http://www.gutenberg.org/files/2687/2687-h/2687-h.htm</item>
+        <item>http://www.gutenberg.org/files/2640/2640-h/2640-h.htm</item>
+        <item>http://www.gutenberg.org/files/3030/3030-h/3030-h.htm</item>
+        <item>http://www.gutenberg.org/files/2783/2783-h/2783-h.htm</item>
+        <item>http://www.gutenberg.org/files/1947/1947-h/1947-h.htm</item>
+    </array>
+
+    <!-- List of Dickens titles -->
+    <array name="arrDickenTitles">
+        <item>American Notes</item>
+        <item>Bleak House</item>
+        <item>A Child\'s Dream of a Star</item>
+        <item>A Christmas Carol</item>
+        <item>The Cricket on the Hearth</item>
+        <item>David Copperfield</item>
+        <item>Doctor Marigold</item>
+        <item>Dombey and Son</item>
+        <item>Great Expectations</item>
+        <item>Little Dorrit</item>
+    </array>
+
+    <!-- List of Dickens titles urls -->
+    <array name="arrDickenTitleURL">
+        <item>http://www.gutenberg.org/files/675/675-h/675-h.htm</item>
+        <item>http://www.gutenberg.org/files/1023/1023-h/1023-h.htm</item>
+        <item>http://www.gutenberg.org/files/42232/42232-h/42232-h.htm</item>
+        <item>http://www.gutenberg.org/files/24022/24022-h/24022-h.htm</item>
+        <item>http://www.gutenberg.org/files/20795/20795-h/20795-h.htm</item>
+        <item>http://www.gutenberg.org/files/766/766-h/766-h.htm</item>
+        <item>http://www.gutenberg.org/files/1415/1415-h/1415-h.htm</item>
+        <item>http://www.gutenberg.org/files/821/821-h/821-h.htm</item>
+        <item>http://www.gutenberg.org/files/1400/1400-h/1400-h.htm</item>
+        <item>http://www.gutenberg.org/files/963/963-h/963-h.htm</item>
+    </array>
+
+    <!-- List of Maupassants titles -->
+    <array name="arrMaupassantTitles">
+        <item>Two Friends</item>
+        <item>The Lancer\'s Wife</item>
+        <item>The Prisoners</item>
+        <item>Two Little Soldiers</item>
+        <item>Father Milon</item>
+        <item>The Horrible</item>
+        <item>Madame Parisse</item>
+        <item>A Duel</item>
+        <item>Epiphany</item>
+        <item>The Blind Man</item>
+    </array>
+
+    <!-- List of Maupassants titles urls -->
+    <array name="arrMaupassantTitleURL">
+        <item>http://www.gutenberg.org/files/3090/3090-h/3090-h.htm#2H_4_0004</item>
+        <item>http://www.gutenberg.org/files/3090/3090-h/3090-h.htm#2H_4_0005</item>
+        <item>http://www.gutenberg.org/files/3090/3090-h/3090-h.htm#2H_4_0006</item>
+        <item>http://www.gutenberg.org/files/3090/3090-h/3090-h.htm#2H_4_0007</item>
+        <item>http://www.gutenberg.org/files/3090/3090-h/3090-h.htm#2H_4_0008</item>
+        <item>http://www.gutenberg.org/files/3090/3090-h/3090-h.htm#2H_4_0011</item>
+        <item>http://www.gutenberg.org/files/3090/3090-h/3090-h.htm#2H_4_0012</item>
+        <item>http://www.gutenberg.org/files/3090/3090-h/3090-h.htm#2H_4_0014</item>
+        <item>http://www.gutenberg.org/files/3090/3090-h/3090-h.htm#2H_4_0019</item>
+        <item>http://www.gutenberg.org/files/3090/3090-h/3090-h.htm#2H_4_0024</item>
+    </array>
+
+    <!-- List of Hugos titles -->
+    <array name="arrHugoTitles">
+        <item>The Man Who Laughs</item>
+        <item>Les Miserables</item>
+        <item>Napoleon the Little</item>
+        <item>The Hunchback of Notre Dame</item>
+        <item>Toilers of the Sea</item>
+        <item>The History of a Crime</item>
+        <item>Mary Tudor</item>
+        <item>Marion De Lorme</item>
+        <item>Esmeralda</item>
+        <item>Poems</item>
+    </array>
+
+    <!-- List of hugos titles urls -->
+    <array name="arrHugoTitleURL">
+        <item>http://www.gutenberg.org/files/12587/12587-h/12587-h.htm</item>
+        <item>http://www.gutenberg.org/files/135/135-h/135-h.htm</item>
+        <item>http://www.gutenberg.org/files/20580/20580-h/20580-h.htm</item>
+        <item>http://www.gutenberg.org/files/2610/2610-h/2610-h.htm</item>
+        <item>http://www.gutenberg.org/files/32338/32338-h/32338-h.htm</item>
+        <item>http://www.gutenberg.org/cache/epub/10381/pg10381.html</item>
+        <item>http://www.gutenberg.org/files/39133/39133-h/39133-h.htm#play01</item>
+        <item>http://www.gutenberg.org/files/39133/39133-h/39133-h.htm#play02</item>
+        <item>http://www.gutenberg.org/files/39133/39133-h/39133-h.htm#play03</item>
+        <item>http://www.gutenberg.org/files/8775/8775-h/8775-h.htm</item>
+    </array>
+
+    <!-- List of Tolstoys titles -->
+    <array name="arrTolstoyTitles">
+        <item>Anna Karenina</item>
+        <item>The Cause of It All</item>
+        <item>Childhood</item>
+        <item>The Cossacks</item>
+        <item>Father Sergius</item>
+        <item>Fruits of Culture</item>
+        <item>The Kingdom of God is Within You</item>
+        <item>A Letter to a Hindu</item>
+        <item>The Light Shines in Darkness</item>
+        <item>The Live Corpse</item>
+    </array>
+
+    <!-- List of Tolstoys titles urls -->
+    <array name="arrTolstoyTitleURL">
+        <item>http://www.gutenberg.org/files/1399/1399-h/1399-h.htm</item>
+        <item>http://www.gutenberg.org/files/26665/26665-h/26665-h.htm</item>
+        <item>http://www.gutenberg.org/files/2142/2142-h/2142-h.htm</item>
+        <item>http://www.gutenberg.org/cache/epub/4761/pg4761.txt</item>
+        <item>http://www.gutenberg.org/files/985/985-h/985-h.htm</item>
+        <item>http://www.gutenberg.org/files/26663/26663-h/26663-h.htm</item>
+        <item>http://www.gutenberg.org/files/43372/43372-h/43372-h.htm</item>
+        <item>http://www.gutenberg.org/files/7176/7176-h/7176-h.htm</item>
+        <item>http://www.gutenberg.org/files/26666/26666-h/26666-h.htm</item>
+        <item>http://www.gutenberg.org/files/26664/26664-h/26664-h.htm</item>
+    </array>
+
+    <!-- List of Kiplings titles -->
+    <array name="arrKiplingTitles">
+        <item>Actions and Reactions</item>
+        <item>A Diversity of Creatures</item>
+        <item>The Eyes of Asia</item>
+        <item>The Finest Story in the World</item>
+        <item>With the Main Guard</item>
+        <item>The Story of Muhammad Din</item>
+        <item>On the City Wall</item>
+        <item>The Man Who Would Be King</item>
+        <item>In The House of Suddhoo</item>
+        <item>Beyond the Pale</item>
+    </array>
+
+    <!-- List of Kiplings titles urls -->
+    <array name="arrKiplingTitleURL">
+        <item>http://www.gutenberg.org/files/2381/2381-h/2381-h.htm</item>
+        <item>http://www.gutenberg.org/files/13085/13085-h/13085-h.htm</item>
+        <item>http://www.gutenberg.org/files/23163/23163-h/23163-h.htm</item>
+        <item>http://www.gutenberg.org/dirs/etext05/8indt10h.htm#THE_FINEST_STORY_IN_THE_WORLD</item>
+        <item>http://www.gutenberg.org/dirs/etext05/8indt10h.htm#WITH_THE_MAIN_GUARD</item>
+        <item>http://www.gutenberg.org/dirs/etext05/8indt10h.htm#THE_STORY_OF_MUHAMMAD_DIN</item>
+        <item>http://www.gutenberg.org/dirs/etext05/8indt10h.htm</item>
+        <item>http://www.gutenberg.org/dirs/etext05/8indt10h.htm#THE_MAN_WHO_WOULD_BE_KING</item>
+        <item> http://www.gutenberg.org/dirs/etext05/8indt10h.htm#IN_THE_HOUSE_OF_SUDDHOO</item>
+        <item>http://www.gutenberg.org/dirs/etext05/8indt10h.htm#BEYOND_THE_PALE</item>
+    </array>
+
+    <!-- List of Tagores titles -->
+    <array name="arrTagoreTitles">
+        <item>Creative Unity</item>
+        <item>The Crescent Moon</item>
+        <item>The Cycle of Spring</item>
+        <item>The Fugitive</item>
+        <item>The Gardner</item>
+        <item>Gitanjali</item>
+        <item>The Home and the World</item>
+        <item>The King of the Dark Chamber</item>
+        <item>Nationalism</item>
+        <item>The Post Office</item>
+    </array>
+
+    <!-- List of Tagores titles urls -->
+    <array name="arrTagoreTitleURL">
+        <item>http://www.gutenberg.org/files/23136/23136-h/23136-h.htm</item>
+        <item>http://www.gutenberg.org/files/6520/6520-h/6520-h.htm</item>
+        <item>http://www.gutenberg.org/files/24607/24607-h/24607-h.htm</item>
+        <item>http://www.gutenberg.org/cache/epub/7971/pg7971.html</item>
+        <item>http://www.gutenberg.org/files/6686/6686-h/6686-h.htm</item>
+        <item>http://www.gutenberg.org/cache/epub/7164/pg7164.html</item>
+        <item>http://www.gutenberg.org/cache/epub/7166/pg7166.html</item>
+        <item>http://www.gutenberg.org/dirs/etext04/kdkch10h.htm</item>
+        <item>http://www.gutenberg.org/files/40766/40766-h/40766-h.htm</item>
+        <item>http://www.gutenberg.org/files/6523/6523-h/6523-h.htm</item>
+    </array>
+
+    <!-- List of Shakepeares titles -->
+    <array name="arrShakespeareTitles">
+        <item>All\'s Well That Ends Well</item>
+        <item>Antony and Cleopatra</item>
+        <item>As You Like It</item>
+        <item>The Comedy of Errors</item>
+        <item>Coriolanus</item>
+        <item>Cymbeline</item>
+        <item>Hamlet</item>
+        <item>Julius Caesar</item>
+        <item>King Henry V</item>
+        <item>King John</item>
+    </array>
+
+    <!-- List of Shakespeares titles urls -->
+    <array name="arrShakespeareTitleURL">
+        <item>http://www.gutenberg.org/cache/epub/1529/pg1529.html</item>
+        <item>http://www.gutenberg.org/cache/epub/1796/pg1796.html</item>
+        <item>http://www.gutenberg.org/cache/epub/1786/pg1786.html</item>
+        <item>http://www.gutenberg.org/cache/epub/1769/pg1769.html</item>
+        <item>http://www.gutenberg.org/cache/epub/2259/pg2259.html</item>
+        <item>http://www.gutenberg.org/cache/epub/1133/pg1133.html</item>
+        <item>http://www.gutenberg.org/cache/epub/2265/pg2265.html</item>
+        <item>http://www.gutenberg.org/cache/epub/1785/pg1785.html</item>
+        <item>http://www.gutenberg.org/cache/epub/1784/pg1784.html</item>
+        <item>http://www.gutenberg.org/cache/epub/1110/pg1110.html</item>
+    </array>
+</resources>

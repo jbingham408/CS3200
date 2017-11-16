@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NetworkPictureDownloader</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_dyers">Dyers</string>
+    <string name="button_moon_pine">Moon Pine</string>
+    <string name="button_plum_estate">Plum Estate</string>
+    <string name="button_ushimachi">Ushimachi</string>
+    <string name="image_view_description">Downloaded Image</string>
+</resources>

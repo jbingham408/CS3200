@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainRemoteCamera"
+    android:background="#180067">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/image_view_height"
+            android:id="@+id/cameraOne"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="@string/cam_one_description"
+            android:background="#0b014e"
+            android:layout_margin="@dimen/image_view_margin" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/image_view_height"
+            android:id="@+id/cameraTwo"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="@string/cam_two_description"
+            android:background="#0b014e"
+            android:layout_marginBottom="@dimen/image_view_margin"
+            android:layout_marginRight="@dimen/image_view_margin"
+            android:layout_marginLeft="@dimen/image_view_margin" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            style="@android:style/Holo.ButtonBar">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/cam_one_btn"
+                android:id="@+id/btnCameraOne"
+                android:layout_weight="50"
+                android:layout_marginRight="@dimen/button_margin"
+                android:layout_marginBottom="@dimen/button_margin"
+                android:layout_marginLeft="@dimen/button_margin"
+                android:clickable="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/cam_two_btn"
+                android:id="@+id/btnCameraTwo"
+                android:layout_weight="50"
+                android:layout_marginRight="@dimen/button_margin"
+                android:layout_marginBottom="@dimen/button_margin"
+                android:clickable="true" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>
