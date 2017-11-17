@@ -33,7 +33,7 @@ public class MainAuthorActivity extends ListActivity implements AdapterView.OnIt
 
         //displays the list of authors
         authorList = this.getListView();
-        ArrayAdapter<String> adapt = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, author);
+        ArrayAdapter<String> adapt = new ArrayAdapter<String>(this, android.R.layout.simple_selectable_list_item, author);
         authorList.setAdapter(adapt);
         authorList.setOnItemClickListener(this);
     }

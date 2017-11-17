@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">On The Go Budgeting</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="viewBudgetCate">View Budget Categories</string>
+    <string name="viewAccount">View Accounts</string>
+    <string name="enterExpense">Enter Expense</string>
+    <string name="viewReport">View Report</string>
+    <string name="initAmount">0.00</string>
+    <string name="title_activity_budget_category">BudgetCategory</string>
+    <string name="addCate">Add New Category</string>
+    <string name="editAmountCate">Edit Category</string>
+    <string name="budgetAmount">Budget Amount</string>
+    <string name="title_activity_new_category">NewCategory</string>
+    <string name="newCategory">Category</string>
+    <string name="submitBtn">Submit</string>
+    <string name="newCateHint">Category</string>
+    <string name="amountHint">Amount</string>
+    <string name="gotoHome">Goto Home Screen</string>
+    <string name="title_activity_enter_expense">EnterExpense</string>
+    <string name="expenseNoteHint">Expense Note</string>
+    <string name="expenseAmountHint">Amount</string>
+    <string name="dollarSign">$</string>
+    <string name="title_activity_new_account">NewAccount</string>
+    <string name="newAccountHint">Account</string>
+    <string name="title_activity_edit_category">EditCategory</string>
+    <string name="deleteCategory">Delete Category</string>
+    <string name="saveChanges">Save Changes</string>
+    <string name="expenses">Expenses</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="addAccount">Add Account</string>
+    <string name="editAccount">Edit Account</string>
+    <string name="title_activity_edit_account">EditAccount</string>
+    <string name="saveAccount">Save Account</string>
+    <string name="deleteAccount">Delete Account</string>
+    <string name="account">Account</string>
+    <string name="clearBtn">Clear</string>
+    <string name="backCategory">Back to Category Screen</string>
+    <string name="backAccount">Back to Account Screen</string>
+    <string name="report">Budget Report</string>
+    <string name="budgeted">Budgeted</string>
+    <string name="month">Month</string>
+
+    <array name="expenseTypes">
+        <item>Expense</item>
+        <item>Income</item>
+    </array>
+    <string name="title_activity_budget_report">BudgetReport</string>
+</resources>

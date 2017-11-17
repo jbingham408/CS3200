@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title1">
+        <item >Title: Computability, Complexity, and Languages, 2nd Edition</item>
+        <item >Authors: Martin Davis, Ron Sigal, Elaine J. Weyuker</item>
+    </string-array>
+    <string-array name="title2">
+        <item>Title: Formal Language: A Practical Introduction</item>
+        <item>Author: Adam Brooks Webber</item>
+    </string-array>
+    <string-array name="title3">
+        <item>Title: Concrete Mathematics: A Foundation for Computer Science</item>
+        <item>Authors: Ronald L. Graham), Donald E. Knuth, Oren Patashnik</item>
+    </string-array>
+    <string-array name="title4">
+        <item>Title: The Art of Computer Programming, Volumes 1-4A</item>
+        <item>Author: Donald E. Knuth</item>
+    </string-array>
+    <string-array name="title5">
+        <item>Title: Algorithms, 4th Edition</item>
+        <item>Authors: Robert Sedgewick, Kevin Wayne</item>
+    </string-array>
+    <string-array name="title6">
+        <item>Title: An Introduction to the Theory of Numbers, 6th Edition</item>
+        <item>Authors: G. H. Hardy, E. M. Wright, A. Wiles, R. Heath-Brown, J. Silverman</item>
+    </string-array>
+    <string-array name="title7">
+        <item>Title: Structure and Interpretation of Computer Programs, 2nd Edition</item>
+        <item>Authors: H. Abelson, G. Jay Sussman, J. Sussman</item>
+    </string-array>
+    <string-array name="title8">
+        <item>Title: How to Solve It: A New Aspect of Mathematical Method</item>
+        <item>Author: G. Polya</item>
+    </string-array>
+    <string-array name="title9">
+        <item>Title: Journey through Genius: The Great Theorems of Mathematics</item>
+        <item>Author: William Dunham</item>
+    </string-array>
+    <string-array name="title10">
+        <item>Title: Introduction to Mathematical Thinking</item>
+        <item>Author: Keith Devli</item>
+    </string-array>
+</resources>

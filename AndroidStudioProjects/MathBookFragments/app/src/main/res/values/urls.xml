@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="urls">
+        <item>http://www.amazon.com/Computability-Complexity-Languages-Second-Edition/dp/0122063821</item>
+        <item>http://www.amazon.com/Formal-Language-A-Practical-Introduction/dp/1590281977/ref=pd_sim_b_3</item>
+        <item>http://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=pd_sim_b_4</item>
+        <item>http://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=pd_sim_b_1</item>
+        <item>http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X/ref=pd_sim_b_3</item>
+        <item>http://www.amazon.com/An-Introduction-Theory-Numbers-Hardy/dp/0199219869/ref=pd_sim_b_26</item>
+        <item>http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_sim_b_33</item>
+        <item>http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X/ref=pd_sim_b_41</item>
+        <item>http://www.amazon.com/Journey-through-Genius-Theorems-Mathematics/dp/014014739X/ref=pd_sim_b_12</item>
+        <item>http://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin/dp/0615653634/ref=pd_sim_b_3</item>
+    </array>
+
+</resources>

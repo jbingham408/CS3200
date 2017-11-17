@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".HomeMainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:id="@+id/textView9"
+            android:textSize="@dimen/titleTextSize"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_green_dark" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/budgeticon"
+            android:paddingBottom="20dp" />
+
+        <Button
+            android:layout_width="@dimen/homeBtnWidth"
+            android:layout_height="wrap_content"
+            android:text="@string/enterExpense"
+            android:id="@+id/expenseBtn"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:layout_width="@dimen/homeBtnWidth"
+            android:layout_height="wrap_content"
+            android:text="@string/viewBudgetCate"
+            android:id="@+id/viewCategoryBtn"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:layout_width="@dimen/homeBtnWidth"
+            android:layout_height="wrap_content"
+            android:text="@string/viewAccount"
+            android:id="@+id/viewAccountBtn"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:layout_width="@dimen/homeBtnWidth"
+            android:layout_height="wrap_content"
+            android:text="@string/viewReport"
+            android:id="@+id/viewReportBtn"
+            android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+</RelativeLayout>

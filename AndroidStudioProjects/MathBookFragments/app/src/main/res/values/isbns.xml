@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="isbns">
+        <item>ISBN10_0122063821</item>
+        <item>ISBN10_1590281977</item>
+        <item>ISBN10_0201558025</item>
+        <item>ISBN10_0321751043</item>
+        <item>ISBN10_032157351X</item>
+        <item>ISBN10_0199219869</item>
+        <item>ISBN10_0262510871</item>
+        <item>ISBN10_069111966X</item>
+        <item>ISBN10_97801401473</item>
+        <item>ISBN10_0615653634</item>
+    </array>
+
+</resources>

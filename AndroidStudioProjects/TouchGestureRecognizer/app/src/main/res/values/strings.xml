@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TouchGestureRecognizer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addButton">Add Gesture</string>
+    <string name="eraseButton">Erase Gesture</string>
+    <string name="testButton">Recognize Gesture</string>
+    <string name="gestureText">Gesture Name</string>
+</resources>
